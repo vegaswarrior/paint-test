@@ -428,7 +428,8 @@ header.header-area.header5.nav-fixed.nav-5 {
     background: #0674c1;
 }
 header.header-area.blue.nav-fixed.nav-blue {
-    background: #0098c3;
+    background: transparent;
+    border-bottom: none;
 }
 header.header-area {
     position: fixed;
@@ -504,7 +505,7 @@ ul.blue ul.dropdown-menu .dropdown-item a:hover{
 /* 2.2 Hero-area */
 .hero-area{
     background-repeat: no-repeat;
-    background-image: url(../images/hero1.png);
+    background-image: url(../images/painter.jpeg);
     width: 100%;
     background-size: cover;
     overflow: hidden;
@@ -916,7 +917,7 @@ button.btn-block.ebtn-r.ebtn-6 {
 /* End Service*/
 /*2.4 About-us */
 .about-us{
-    background-image: url(../images/project/about.png);
+    background-image: url(../images/AdobeStock_33077580_Preview.jpeg);
     width: 100%;
     padding: 50px 50px;
     overflow: hidden;
