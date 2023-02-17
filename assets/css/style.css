@@ -672,7 +672,7 @@ button.btn-block.ebtn {
     font-size: 16px;
     color: #fff;
     font-family: 'Arvo', serif;
-    background-color: #0674c1;
+    background-color: #1d7e2d;
     cursor: pointer;
 }
 button.btn-block.ebtn-r {
@@ -682,21 +682,21 @@ button.btn-block.ebtn-r {
     font-weight: 600;
     font-size: 16px;
     font-family: 'Arvo', serif;
-    background-color: #1aa0ff;
+    background-color: #1d7e2d;
     cursor: pointer;
 }
 
 button.btn-block.ebtn.ebtn6 {
     color: #fff;
-    background-color: #0098c3;
+    background-color: #1d7e2d;
 }
 button.btn-block.ebtn-r.ebtn-6 {
     color: #fff;
-    background-color: #1aa0ff;
+    background-color: #1d7e2d;
 }
 .btn-contact{
     -webkit-mask: url(../images/li.svg) no-repeat;
-    background-color: #ffe468;
+    background-color: #10c528;
     width: 200px;
     margin: 0px auto;
     transition: .5s ease;
@@ -727,7 +727,7 @@ button.btn-block.ebtn-r.ebtn-6 {
     width: 0;
     top: 0;
     left: 0;
-    background-color: #ffa868;
+    background-color: #1fb34b;
     transition: .9s ease;
 }
 .btn-contact:hover:after{
