@@ -106,12 +106,12 @@ button.navbar-toggler.nav-icon::before {
 
 .navbar-toggler:not(:disabled):not(.disabled) {
     cursor: pointer;
-    background: #1aa0ff;;
+    background: #24a818;;
 }
 
 .header5-nav .navbar-toggler:not(:disabled):not(.disabled) {
     cursor: pointer;
-    background: #1aa0ff;
+    background: #16641a;
 }
 
 .head-6 .navbar-toggler:not(:disabled):not(.disabled) {
@@ -505,7 +505,7 @@ ul.blue ul.dropdown-menu .dropdown-item a:hover{
 /* 2.2 Hero-area */
 .hero-area{
     background-repeat: no-repeat;
-    background-image: url(../images/painter.jpeg);
+    background-image: url(../images/pexels-pixabay-271816.jpg);
     width: 100%;
     background-size: cover;
     overflow: hidden;
